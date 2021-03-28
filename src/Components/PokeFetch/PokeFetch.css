@@ -23,9 +23,9 @@
 }
 
 .pokeWrap{
-  align-self: flex-start;
+  align-self: center;
   margin-top: -100px;
-  margin-left: 18vw;
+  margin-left: 0vw;
 }
 
 .pokeImg {
